@@ -1,0 +1,6 @@
+com\example\productcrud\controllers\ProductController.class
+com\example\productcrud\controllers\ProductRestController.class
+com\example\productcrud\models\Product.class
+com\example\productcrud\ProductCrudApplication.class
+com\example\productcrud\repositories\ProductRepository.class
+com\example\productcrud\services\ProductService.class
